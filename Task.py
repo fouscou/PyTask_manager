@@ -1,11 +1,33 @@
+from TaskStatus import TaskStatus
+import logging
+
+
 class Task:
     def __init__(self, Id, title, description, start_time, end_time, status):
+        self.logger = logging.getLogger(self.__class__.__name__)
         self._Id = Id
         self._title = title
         self._description = description
         self._start_time = start_time
         self._end_time = end_time
         self._status = status
+        self.logger.info("New Task created (%s; %s ;%s ;%s ;%s ;%s)", Id, title, description, start_time, end_time, status)
+
+    def start_task(self):
+        self._status = TaskStatus.IN_PROGRESS
+        #self._start_time = datetime.now(timezone.utc)
+        #print(f"Started at: {self.start_time:%b %d, %Y, %I:%M %p}")
+
+    def finish_task(self):
+        self._status = TaskStatus.COMPLETED
+        #self._end_time = datetime.now(timezone.utc)
+        #print(f"Finished at: {self.end_time:%b %d, %Y, %I:%M %p}")
+
+    def cancel_task(self):
+        self._status = TaskStatus.CANCELLED
+
+    def pause_task(self):
+        self._status = TaskStatus.PAUSED
 
     def task_duration(self):
         pass

@@ -1,0 +1,18 @@
+2026-04-02 16:28:37,792 - Task - INFO - New Task created (fbba02b3-b27b-44a2-aac9-8eea0871f8fe; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-02 16:28:37,792 - Task - INFO - New Task created (e0851404-666f-41d7-8946-dbe7a58896b8; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-02 16:28:37,792 - Task - INFO - New Task created (82142283-63e7-4107-a4ed-4457794899f7; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-02 16:28:37,792 - Task - INFO - New Task created (760d114c-9f99-42cc-af8e-8ac3d0cf8414; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-02 16:28:37,792 - TaskHandler - INFO - Task handler creation begins
+2026-04-02 16:28:37,792 - TaskHandler - INFO - Task handler creation finished
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task fbba02b3-b27b-44a2-aac9-8eea0871f8fe has been added to the list
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task e0851404-666f-41d7-8946-dbe7a58896b8 has been added to the list
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 82142283-63e7-4107-a4ed-4457794899f7 has been added to the list
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 760d114c-9f99-42cc-af8e-8ac3d0cf8414 has been added to the list
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task fbba02b3-b27b-44a2-aac9-8eea0871f8fe description update started 
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task fbba02b3-b27b-44a2-aac9-8eea0871f8fe description has been updated. The new value is => My New First Task Description 
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task e0851404-666f-41d7-8946-dbe7a58896b8 title update started 
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task e0851404-666f-41d7-8946-dbe7a58896b8 title has been updated. The new value is => My New Second Task Title
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 82142283-63e7-4107-a4ed-4457794899f7 status update started 
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 82142283-63e7-4107-a4ed-4457794899f7 start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 760d114c-9f99-42cc-af8e-8ac3d0cf8414 deletion started 
+2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 760d114c-9f99-42cc-af8e-8ac3d0cf8414 has been deleted
