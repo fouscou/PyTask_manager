@@ -6,8 +6,8 @@ import uuid, logging
 
 
 logging.basicConfig(
-    filename="task_manager_journal.log",                  # log file
-    level=logging.INFO,                 # minimum level
+    filename="task_manager_journal.log",
+    level=logging.INFO,
     format="%(asctime)s - %(name)s - %(levelname)s - %(message)s"
 )
 
@@ -44,7 +44,6 @@ def update_tasks_randomly(task_handler):
     task_handler.delete_task(task_4)
 
     # Check the number of task at the end.
-
 
 
 def main():

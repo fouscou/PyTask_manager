@@ -62,12 +62,18 @@ class Task:
     
     @description.setter
     def description(self, description):
-        self._description = description
-
+        if type(description) == str:
+            self._description = description
+        else:
+            self._description = str(description)
+    
     @title.setter
     def title(self, title):
-        self._title = title
-
+        if type(title) == str:
+            self._title = title
+        else :
+            self._title = str(title)
+    
     @start_time.setter
     def start_time(self, start_time):
         self.start_time = start_time

@@ -1,90 +1,18 @@
-2026-04-02 16:28:37,792 - Task - INFO - New Task created (fbba02b3-b27b-44a2-aac9-8eea0871f8fe; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 16:28:37,792 - Task - INFO - New Task created (e0851404-666f-41d7-8946-dbe7a58896b8; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 16:28:37,792 - Task - INFO - New Task created (82142283-63e7-4107-a4ed-4457794899f7; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 16:28:37,792 - Task - INFO - New Task created (760d114c-9f99-42cc-af8e-8ac3d0cf8414; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 16:28:37,792 - TaskHandler - INFO - Task handler creation begins
-2026-04-02 16:28:37,792 - TaskHandler - INFO - Task handler creation finished
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task fbba02b3-b27b-44a2-aac9-8eea0871f8fe has been added to the list
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task e0851404-666f-41d7-8946-dbe7a58896b8 has been added to the list
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 82142283-63e7-4107-a4ed-4457794899f7 has been added to the list
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 760d114c-9f99-42cc-af8e-8ac3d0cf8414 has been added to the list
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task fbba02b3-b27b-44a2-aac9-8eea0871f8fe description update started 
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task fbba02b3-b27b-44a2-aac9-8eea0871f8fe description has been updated. The new value is => My New First Task Description 
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task e0851404-666f-41d7-8946-dbe7a58896b8 title update started 
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task e0851404-666f-41d7-8946-dbe7a58896b8 title has been updated. The new value is => My New Second Task Title
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 82142283-63e7-4107-a4ed-4457794899f7 status update started 
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 82142283-63e7-4107-a4ed-4457794899f7 start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 760d114c-9f99-42cc-af8e-8ac3d0cf8414 deletion started 
-2026-04-02 16:28:37,793 - TaskHandler - INFO - Task 760d114c-9f99-42cc-af8e-8ac3d0cf8414 has been deleted
-2026-04-02 19:19:29,765 - Task - INFO - New Task created (8e66c252-ea9f-46ab-8a5e-0bcf7782b528; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:19:29,766 - Task - INFO - New Task created (f8f99f8b-93fd-48ad-b894-d3ad0f568099; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:19:29,766 - Task - INFO - New Task created (4af70f49-2418-4d83-babd-29a9c97ebef4; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:19:29,766 - Task - INFO - New Task created (81b3110e-aad5-42ad-a36d-b5fbd2d2b4a7; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task handler creation begins
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task handler creation finished
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 8e66c252-ea9f-46ab-8a5e-0bcf7782b528 has been added to the list
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task f8f99f8b-93fd-48ad-b894-d3ad0f568099 has been added to the list
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 4af70f49-2418-4d83-babd-29a9c97ebef4 has been added to the list
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 81b3110e-aad5-42ad-a36d-b5fbd2d2b4a7 has been added to the list
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 8e66c252-ea9f-46ab-8a5e-0bcf7782b528 description update started 
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 8e66c252-ea9f-46ab-8a5e-0bcf7782b528 description has been updated. The new value is => My New First Task Description 
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task f8f99f8b-93fd-48ad-b894-d3ad0f568099 title update started 
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task f8f99f8b-93fd-48ad-b894-d3ad0f568099 title has been updated. The new value is => My New Second Task Title
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 4af70f49-2418-4d83-babd-29a9c97ebef4 status update started 
-2026-04-02 19:19:29,767 - TaskHandler - INFO - Task 4af70f49-2418-4d83-babd-29a9c97ebef4 start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
-2026-04-02 19:19:29,768 - TaskHandler - INFO - Task 81b3110e-aad5-42ad-a36d-b5fbd2d2b4a7 deletion started 
-2026-04-02 19:19:29,768 - TaskHandler - INFO - Task 81b3110e-aad5-42ad-a36d-b5fbd2d2b4a7 has been deleted
-2026-04-02 19:21:15,267 - Task - INFO - New Task created (a55d70eb-5ec8-4e4b-a79c-ed4a69870560; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:15,267 - Task - INFO - New Task created (941eb0e6-14c9-4b9e-89c2-857bf2c51a95; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:15,267 - Task - INFO - New Task created (17061046-fecc-482e-a20d-3779b3cd9b2f; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:15,268 - Task - INFO - New Task created (32e75df0-9ca1-47ee-b7b3-fe6296ed5886; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task handler creation begins
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task handler creation finished
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task a55d70eb-5ec8-4e4b-a79c-ed4a69870560 has been added to the list
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 941eb0e6-14c9-4b9e-89c2-857bf2c51a95 has been added to the list
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 17061046-fecc-482e-a20d-3779b3cd9b2f has been added to the list
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 32e75df0-9ca1-47ee-b7b3-fe6296ed5886 has been added to the list
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task a55d70eb-5ec8-4e4b-a79c-ed4a69870560 description update started 
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task a55d70eb-5ec8-4e4b-a79c-ed4a69870560 description has been updated. The new value is => My New First Task Description 
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 941eb0e6-14c9-4b9e-89c2-857bf2c51a95 title update started 
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 941eb0e6-14c9-4b9e-89c2-857bf2c51a95 title has been updated. The new value is => My New Second Task Title
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 17061046-fecc-482e-a20d-3779b3cd9b2f status update started 
-2026-04-02 19:21:15,268 - TaskHandler - INFO - Task 17061046-fecc-482e-a20d-3779b3cd9b2f start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
-2026-04-02 19:21:15,269 - TaskHandler - INFO - Task 32e75df0-9ca1-47ee-b7b3-fe6296ed5886 deletion started 
-2026-04-02 19:21:15,269 - TaskHandler - INFO - Task 32e75df0-9ca1-47ee-b7b3-fe6296ed5886 has been deleted
-2026-04-02 19:21:39,185 - Task - INFO - New Task created (31419c4a-2f44-4d26-bc73-0a05a839a444; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:39,185 - Task - INFO - New Task created (7a5cbe0e-a053-44aa-bc83-b50590b15d8b; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:39,185 - Task - INFO - New Task created (e76f609f-b42f-48ea-a2f2-af4b0571fb55; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:39,186 - Task - INFO - New Task created (8f509f82-a638-4acf-9c41-ba7ce2af15d9; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task handler creation begins
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task handler creation finished
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 31419c4a-2f44-4d26-bc73-0a05a839a444 has been added to the list
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 7a5cbe0e-a053-44aa-bc83-b50590b15d8b has been added to the list
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task e76f609f-b42f-48ea-a2f2-af4b0571fb55 has been added to the list
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 8f509f82-a638-4acf-9c41-ba7ce2af15d9 has been added to the list
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 31419c4a-2f44-4d26-bc73-0a05a839a444 description update started 
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 31419c4a-2f44-4d26-bc73-0a05a839a444 description has been updated. The new value is => My New First Task Description 
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 7a5cbe0e-a053-44aa-bc83-b50590b15d8b title update started 
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task 7a5cbe0e-a053-44aa-bc83-b50590b15d8b title has been updated. The new value is => My New Second Task Title
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task e76f609f-b42f-48ea-a2f2-af4b0571fb55 status update started 
-2026-04-02 19:21:39,186 - TaskHandler - INFO - Task e76f609f-b42f-48ea-a2f2-af4b0571fb55 start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
-2026-04-02 19:21:39,187 - TaskHandler - INFO - Task 8f509f82-a638-4acf-9c41-ba7ce2af15d9 deletion started 
-2026-04-02 19:21:39,187 - TaskHandler - INFO - Task 8f509f82-a638-4acf-9c41-ba7ce2af15d9 has been deleted
-2026-04-02 19:23:32,392 - Task - INFO - New Task created (285ed854-4419-406e-9e48-131c2a6b1d08; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:23:32,392 - Task - INFO - New Task created (5c02bc16-2e0f-4b5a-aba4-2a6847122252; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:23:32,392 - Task - INFO - New Task created (b789fb2b-e35c-4962-8bfe-7eff00829d98; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:23:32,393 - Task - INFO - New Task created (fcc2330b-9ef3-4f76-b601-1027d37e67fc; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task handler creation begins
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task handler creation finished
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task 285ed854-4419-406e-9e48-131c2a6b1d08 has been added to the list
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task 5c02bc16-2e0f-4b5a-aba4-2a6847122252 has been added to the list
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task b789fb2b-e35c-4962-8bfe-7eff00829d98 has been added to the list
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task fcc2330b-9ef3-4f76-b601-1027d37e67fc has been added to the list
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task 285ed854-4419-406e-9e48-131c2a6b1d08 description update started 
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task 285ed854-4419-406e-9e48-131c2a6b1d08 description has been updated. The new value is => My New First Task Description 
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task 5c02bc16-2e0f-4b5a-aba4-2a6847122252 title update started 
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task 5c02bc16-2e0f-4b5a-aba4-2a6847122252 title has been updated. The new value is => My New Second Task Title
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task b789fb2b-e35c-4962-8bfe-7eff00829d98 status update started 
-2026-04-02 19:23:32,393 - TaskHandler - INFO - Task b789fb2b-e35c-4962-8bfe-7eff00829d98 start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
-2026-04-02 19:23:32,394 - TaskHandler - INFO - Task fcc2330b-9ef3-4f76-b601-1027d37e67fc deletion started 
-2026-04-02 19:23:32,394 - TaskHandler - INFO - Task fcc2330b-9ef3-4f76-b601-1027d37e67fc has been deleted
+2026-04-19 22:35:17,253 - Task - INFO - New Task created (2e63e836-58fa-4fda-a674-7976b424c479; First Task ;My First Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-19 22:35:17,261 - Task - INFO - New Task created (da2204e9-769e-491d-8182-5d052c3079ad; Second Task ;My Second Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-19 22:35:17,261 - Task - INFO - New Task created (22394aad-e51f-4958-b67e-d3da0674e49f; Third Task ;My Third Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-19 22:35:17,262 - Task - INFO - New Task created (1da811ad-c70e-4bcd-85d3-2f66984627c2; Fourth Task ;My Fourth Task description ;2026-04-02 15:00:00 ;2026-04-03 15:00:00 ;TaskStatus.PENDING)
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task handler creation begins
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task handler creation finished
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task 2e63e836-58fa-4fda-a674-7976b424c479 has been added to the list
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task da2204e9-769e-491d-8182-5d052c3079ad has been added to the list
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task 22394aad-e51f-4958-b67e-d3da0674e49f has been added to the list
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task 1da811ad-c70e-4bcd-85d3-2f66984627c2 has been added to the list
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task 2e63e836-58fa-4fda-a674-7976b424c479 description update started 
+2026-04-19 22:35:17,262 - TaskHandler - INFO - Task 2e63e836-58fa-4fda-a674-7976b424c479 description has been updated. The new value is => My New First Task Description 
+2026-04-19 22:35:17,263 - TaskHandler - INFO - Task da2204e9-769e-491d-8182-5d052c3079ad title update started 
+2026-04-19 22:35:17,263 - TaskHandler - INFO - Task da2204e9-769e-491d-8182-5d052c3079ad title has been updated. The new value is => My New Second Task Title
+2026-04-19 22:35:17,263 - TaskHandler - INFO - Task 22394aad-e51f-4958-b67e-d3da0674e49f status update started 
+2026-04-19 22:35:17,263 - TaskHandler - INFO - Task 22394aad-e51f-4958-b67e-d3da0674e49f start time has been updated. The new value is  => TaskStatus.IN_PROGRESS
+2026-04-19 22:35:17,263 - TaskHandler - INFO - Task 1da811ad-c70e-4bcd-85d3-2f66984627c2 deletion started 
+2026-04-19 22:35:17,263 - TaskHandler - INFO - Task 1da811ad-c70e-4bcd-85d3-2f66984627c2 has been deleted
